@@ -175,6 +175,11 @@ section {
     margin-bottom: 0.2rem;
 }
 
+.tech-list {
+    font-weight: bold;
+    padding-right: 5px;
+}
+
 footer {
     color: #adb5bd;
     font-size: 1rem;
